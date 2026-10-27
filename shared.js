@@ -3,7 +3,7 @@
 (function (global) {
   'use strict';
 
-  const OWNER  = 'USERNAME_GITHUB_CUA_M';   // ví dụ: 'minhbeo67'
+  const OWNER  = 'minhbeostore';   // ví dụ: 'minhbeo67'
   const REPO   = 'beo-store';
   const BRANCH = 'main';
   const DATA_PATH = 'products.json';
